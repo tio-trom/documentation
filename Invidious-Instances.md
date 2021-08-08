@@ -46,7 +46,7 @@ To be in this list, instances must have been updated in the last month. An insta
 
 * [invidious.blamefran.net](https://invidious.blamefran.net) 🇺🇸
 
-* [ytb.trom.tf](https://ytb.trom.tf) 🇩🇪
+* [ytb.trom.tf](https://ytb.trom.tf) 🇩🇪  Changes (only some CSS have been changed): https://gitlab.com/TioTrom/trom.tf-invidious
 
 * [y.com.cm](https://y.com.cm) 🇩🇪 (uses Cloudflare)
 
